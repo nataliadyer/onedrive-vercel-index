@@ -15,6 +15,13 @@ export default function Home() {
         <title>{siteConfig.title}</title>
         <meta name="robots" content="noindex, nofollow" />
         <script type='text/javascript' src='//sortexampleposition.com/2d/fc/c4/2dfcc4499eb2fd87ac12369e6d9da638.js' />
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-RBCGSFJ4CF" />
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-RBCGSFJ4CF');
+/>
       </Head>
 
       <main className="flex w-full flex-1 flex-col bg-gray-50 dark:bg-gray-800">
