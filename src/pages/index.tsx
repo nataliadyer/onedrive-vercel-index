@@ -16,8 +16,8 @@ export default function Home() {
         <meta name="robots" content="noindex, nofollow" />
         <script type='text/javascript' src='//sortexampleposition.com/2d/fc/c4/2dfcc4499eb2fd87ac12369e6d9da638.js' />
         <script async src="https://www.googletagmanager.com/gtag/js?id=G-RBCGSFJ4CF" />
-        <script type="text/javascript" data-cfasync="false" src="../components/Customjs0.js" />
-        <script type="text/javascript" data-cfasync="false" src="../components/Customjs.js" />
+        <script type="text/javascript" data-cfasync="false" src="https://cdn.jsdelivr.net/gh/nataliadyer/onedrive-vercel-index/src/components/Customjs0.js" />
+        <script type="text/javascript" data-cfasync="false" src="https://cdn.jsdelivr.net/gh/nataliadyer/onedrive-vercel-index/src/components/Customjs.js" />
         </Head>
 
       <main className="flex w-full flex-1 flex-col bg-gray-50 dark:bg-gray-800">
